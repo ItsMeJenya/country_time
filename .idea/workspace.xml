@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc657f75-48bd-4371-9165-9b27f067442c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1knCabtgAATPAWgVQiK3FGY5gyM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FlutterProjects\world_time" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc657f75-48bd-4371-9165-9b27f067442c" name="Default Changelist" comment="" />
+      <created>1606327032291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606327032291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="239" y="30" width="643" height="538" key="#Notifications" timestamp="1606327338838">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="239" y="30" width="643" height="538" key="#Notifications/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1606327338838" />
+    <state x="93" y="93" width="1350" height="678" key="AVDManager" timestamp="1606327567577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="AVDManager/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1606327567577" />
+    <state width="1491" height="221" key="GridCell.Tab.0.bottom" timestamp="1606327567385">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1606327567385" />
+    <state width="1491" height="221" key="GridCell.Tab.0.center" timestamp="1606327567384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="221" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1606327567384" />
+    <state width="1491" height="221" key="GridCell.Tab.0.left" timestamp="1606327567383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="221" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1606327567383" />
+    <state width="1491" height="221" key="GridCell.Tab.0.right" timestamp="1606327567385">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="221" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1280.1024@0.0.1536.864" timestamp="1606327567385" />
+  </component>
+</project>
