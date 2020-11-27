@@ -9,6 +9,8 @@ class ChooseLocation extends StatefulWidget {
 class _ChooseLocationState extends State<ChooseLocation> {
 
   List<WorldTime> locations = [
+    WorldTime(url: 'Europe/Kiev', location: 'Kiev', flag: 'ukr.png'),
+    WorldTime(url: 'Europe/Rome', location: 'Rome', flag: 'italy.png'),
     WorldTime(url: 'Europe/London', location: 'London', flag: 'uk.png'),
     WorldTime(url: 'Europe/Athens', location: 'Athens', flag: 'greece.png'),
     WorldTime(url: 'Africa/Cairo', location: 'Cairo', flag: 'egypt.png'),
@@ -22,7 +24,6 @@ class _ChooseLocationState extends State<ChooseLocation> {
   void updateTime(index) async {
     WorldTime instance = locations[index];
     await instance.getTime();
-    //navigate to home screen
     Navigator.pop(context,
         {
       'location': instance.location,
